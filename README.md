@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+<meta name="google-site-verification" content="kGWxe9U4gEEPbbWmD7GT5ygdh8jnqea_PuxAFWlp9fs" />
 
 ### `yarn start`
 
